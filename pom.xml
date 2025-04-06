@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>src/factory-pattern</module>
+      <module>src/builder</module>
     </modules>
 
     <properties>
